@@ -1,0 +1,71 @@
+h1{color:saddlebrown;
+}
+
+#total{
+    width: 960px;
+    height: auto;
+    margin: auto; /*centraliza a divisão na página*/
+}
+#cabecalho{
+    width: 960px;
+    height: 100px;
+    background-color:white;
+}
+
+#logotipo{
+    float: left;
+    margin-top: 15px
+}
+
+#menu{
+float: right;
+margin-top: 40px;
+}
+#menu a{
+color: maroon;
+text-decoration: none;
+margin-left: 50px;
+text-transform: uppercase;
+}
+#menu a:hover{
+    text-decoration: underline;
+    }
+#conteudo{
+    width: 960px;
+    height: 400px;
+    float: left;
+    background-color:tomato ;
+}
+#rodape{
+    width: 960px;
+    height: auto;
+    float: left;
+    text-align: center;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    margin-top: 30px;
+    border-top: brown 10px;
+    background-color:wheat;
+}
+
+#conteudoquemsomos1{
+    width: 600px;
+    height: 400px;
+    float: left;
+    background-color:aqua ;
+}
+
+    #conteudoquemsomos2{
+        width: 360px;
+        height: 200px;
+        float: right;
+        background-color:black ;
+}
+
+    #conteudoquemsomos3{
+        width: 360px;
+        height: 200px;
+        float: right;
+        background-color:blueviolet ; 
+}
